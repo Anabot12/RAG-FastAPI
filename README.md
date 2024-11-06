@@ -20,9 +20,13 @@ Kindly install all the requirements from [requirements.txt](requirements.txt)
 ### Outputs
 
 /upload/ 
+
+
 ![image](https://github.com/user-attachments/assets/28e9cb02-dcce-4d65-affb-a59c50bf74e0)
 
 /query/
+
+
 ![image](https://github.com/user-attachments/assets/4f51d744-9170-4d77-b801-8abf5567b086)
 
 
