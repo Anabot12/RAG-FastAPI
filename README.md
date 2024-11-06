@@ -7,7 +7,8 @@ The goal of this project is to upload and query documents in a seamless and effi
 
 ## Requirements
 
-Before you begin, ensure that you have Python 3.8+ installed.
+Kindly install all the requirements from [requirements.txt](path/to/your/file)
+
 
 ### Dependencies
 - **FastAPI**: A modern, fast web framework for building APIs.
