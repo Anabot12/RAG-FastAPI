@@ -7,7 +7,7 @@ The goal of this project is to upload and query documents in a seamless and effi
 
 ## Requirements
 
-Kindly install all the requirements from [requirements.txt](path/to/your/file)
+Kindly install all the requirements from [requirements.txt](requirements.txt)
 
 
 ### Dependencies
@@ -16,6 +16,13 @@ Kindly install all the requirements from [requirements.txt](path/to/your/file)
 - **ChromaDB**: A persistent database for storing embeddings and performing document-based queries.
 - **Sentence-Transformers**: A Python library for generating embeddings from text using models like `all-MiniLM-L6-v2`.
 
-### Install Dependencies
-To get started, clone the repository and install the required Python packages.
+
+### Outputs
+
+/upload/ 
+![image](https://github.com/user-attachments/assets/28e9cb02-dcce-4d65-affb-a59c50bf74e0)
+
+/query/
+![image](https://github.com/user-attachments/assets/4f51d744-9170-4d77-b801-8abf5567b086)
+
 
